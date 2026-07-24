@@ -168,25 +168,7 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
   </a>
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/BabySuga">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabySuga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/BabySuga">
-    <img src="https://github-profile-trophy.vercel.app/?username=BabySuga&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
