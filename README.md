@@ -40,7 +40,7 @@ I'm a Software Engineer who believes that great software is built through contin
 
 | 📊 **Mona Dashboard** | 🤖 **Chatbot Builder** |
 |---|---|
-| Enterprise monitoring dashboard for real-time device monitoring integrated with AI recommendation and chatbot navigation. <br><br> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Enterprise chatbot platform for designing intents, entities, knowledge base, and conversation flow. <br><br> ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| Enterprise monitoring dashboard for real-time device monitoring integrated with AI recommendation and chatbot navigation.<br><br>🔗 [Showcase](https://netmonk.id/) • [Web Interface](https://mona.netmonk.id/login) <br><br> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Enterprise chatbot platform for designing intents, entities, knowledge base, and conversation flow. <br><br> ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 
 ---
 
@@ -49,17 +49,35 @@ I'm a Software Engineer who believes that great software is built through contin
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <b>💌 Digital Invitation</b><br><br>
+      <b>💌 <a href="https://lintangad.my.id/#beranda">Digital Invitation</a></b><br><br>
       Interactive web-based digital invitation platform with dynamic guest management.<br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
-      <b>🌤️ Jakarta Forecast</b><br><br>
+      <b>🌤️ <a href="https://jakarta-forecast.vercel.app/">Jakarta Forecast</a></b><br><br>
       Weather forecasting and environmental data analysis web application for Jakarta region.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>📱 <a href="https://github.com/BabySuga/Aplikasi-Media-GAPENSI-BPC-Indramayu">Gapensi Media</a></b><br><br>
+      Android OCR member registration powered by AWS.<br><br>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🤟 <a href="https://github.com/BabySuga/Konektra">Konektra</a></b><br><br>
+      AI communication app for deaf & speech-impaired users.<br><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>🗺️ <a href="https://github.com/BabySuga/Google-Map-Review-Scrapper">Google Map Review Scrapper</a></b><br><br>
+      Automated scraper for extracting Google Maps reviews and place data.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
       <b>📦 Frontend Monorepo</b><br><br>
@@ -70,23 +88,10 @@ I'm a Software Engineer who believes that great software is built through contin
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <b>📱 Gapensi Media</b><br><br>
-      Android OCR member registration powered by AWS.<br><br>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <b>🤟 Konektra</b><br><br>
-      AI communication app for deaf & speech-impaired users.<br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
       <b>🌦 Weather API</b><br><br>
       Google Earth Engine weather analysis API.<br><br>
       <img src="https://img.shields.io/badge/GEE-4285F4?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <b>📊 Netflix Dashboard</b><br><br>
       Power BI dashboard.<br><br>
@@ -96,8 +101,6 @@ I'm a Software Engineer who believes that great software is built through contin
       <b>🧠 Mental Health Dashboard</b><br><br>
       Power BI visualization.<br><br>
       <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-    </td>
-    <td width="33%" valign="top">
     </td>
   </tr>
 </table>
