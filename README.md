@@ -110,29 +110,44 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 
 # 🏆 Experience Highlights
 
-### 🏢 Telkom Indonesia (Netmonk)
-
-- Enterprise Monitoring Dashboard
-- Voice AI (STT/TTS)
-- Chatbot Platform
-- React + TypeScript
-- FastAPI
-- Redis Caching
-- Docker
-- Jenkins
-- SonarQube
-- REST API
-- Authentication (OTP & JWT)
-- Reusable NPM Packages
-
-### ☁️ Bangkit Academy
-
-- Google Cloud Platform
-- Docker
-- Terraform
-- Cloud IAM
-- REST API
-- Infrastructure as Code
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b>🏢 Enterprise Monitoring</b><br><br>
+      Real-time device monitoring, AI recommendation & chatbot navigation.
+    </td>
+    <td width="25%" valign="top">
+      <b>🤖 AI Chatbot Platform</b><br><br>
+      Intent design, entity extraction, knowledge base & flow builder.
+    </td>
+    <td width="25%" valign="top">
+      <b>🎙 Voice AI Integration</b><br><br>
+      Speech-to-Text (STT) & Text-to-Speech (TTS) integration.
+    </td>
+    <td width="25%" valign="top">
+      <b>⚡ Backend & Caching</b><br><br>
+      FastAPI, Redis Caching, OTP & JWT authentication.
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <b>📦 Frontend Platform</b><br><br>
+      React, TypeScript & reusable NPM component packages.
+    </td>
+    <td width="25%" valign="top">
+      <b>🐳 CI/CD & DevOps</b><br><br>
+      Docker containerization, Jenkins pipelines & SonarQube.
+    </td>
+    <td width="25%" valign="top">
+      <b>☁️ Cloud Infrastructure</b><br><br>
+      GCP, Terraform IaC, Docker & Cloud IAM management.
+    </td>
+    <td width="25%" valign="top">
+      <b>🔑 Auth & Multi-Tenant</b><br><br>
+      Multi-account platform & secure identity management.
+    </td>
+  </tr>
+</table>
 
 ---
 
