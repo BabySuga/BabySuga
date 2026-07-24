@@ -145,12 +145,82 @@ I'm a Software Engineer who believes that great software is built through contin
 
 ---
 
-# 📊 GitHub Stats
+# 🖥️ Development Machine & AI Laboratory
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+> 💡 **Purpose & Focus:**  
+> *"I am currently focusing on AI Software Engineering by building and testing Local LLMs, AI Agents, Retrieval-Augmented Generation (RAG), Vector Databases, and Model Context Protocol (MCP) workflows. My workstation functions as a local AI lab where I experiment, optimize, and validate production-ready AI systems before cloud deployment."*
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 1. Hardware Overview</h3>
+      <ul>
+        <li><b>CPU:</b> AMD Ryzen 5 5600G (6 Cores / 12 Threads)</li>
+        <li><b>GPU:</b> PowerColor Radeon RX 6600 XT / 9060 XT 16GB</li>
+        <li><b>RAM:</b> 16GB DDR4 3200MHz Dual Channel</li>
+        <li><b>Storage:</b> 500GB NVMe SSD</li>
+        <li><b>Motherboard:</b> ASRock B550M-HDV</li>
+        <li><b>PSU:</b> PCCOOLER KG550W Bronze</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 2. AI Engineering Focus</h3>
+      <ul>
+        <li>🦙 <b>Local LLM Execution:</b> Quantized model testing (Ollama, vLLM, LM Studio)</li>
+        <li>🤖 <b>Autonomous AI Agents:</b> Multi-agent orchestration & tool-use workflows</li>
+        <li>🔍 <b>RAG Architecture:</b> Dense retrieval, hybrid search & reranking pipelines</li>
+        <li>🗄️ <b>Vector Databases:</b> Embeddings storage, indexing & semantic querying</li>
+        <li>🔌 <b>MCP Protocols:</b> Building standard Model Context Protocol servers/clients</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛣️ 3. Current Learning Roadmap</h3>
+      <ul>
+        <li>🎯 <b>Phase 1:</b> Local LLM Benchmarking & Context Window Optimization</li>
+        <li>🎯 <b>Phase 2:</b> Advanced RAG (GraphRAG, Multi-Vector Retrieval)</li>
+        <li>🎯 <b>Phase 3:</b> Production-grade MCP Tooling & Agentic Workflows</li>
+        <li>🎯 <b>Phase 4:</b> Enterprise AI Guardrails & Local Evaluation Pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ 4. Development Environment</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+        <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/IDE-Antigravity_IDE-8E44AD?style=flat-square&logo=visualstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Frontend-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🚀 5. AI Capabilities & Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Local_LLM-Ollama%20%7C%20vLLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-LangChain%20%7C%20CrewAI-3B82F6?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid_Search-10B981?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-Qdrant%20%7C%20Chroma-8B5CF6?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-EC4899?style=for-the-badge&logo=connection&logoColor=white" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,postgres,mongodb,redis,tensorflow,vscode,react,vue,fastapi" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true" alt="Streak Stats" />
