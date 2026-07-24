@@ -145,18 +145,17 @@ I'm a Software Engineer who believes that great software is built through contin
 
 ---
 
-# 🖥️ Development Machine & AI Laboratory
+# 💻 Workstation & AI Engineering Laboratory
 
-> 💡 **Purpose & Focus:**  
 > *"I am currently focusing on AI Software Engineering by building and testing Local LLMs, AI Agents, Retrieval-Augmented Generation (RAG), Vector Databases, and Model Context Protocol (MCP) workflows. My workstation functions as a local AI lab where I experiment, optimize, and validate production-ready AI systems before cloud deployment."*
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 1. Hardware Overview</h3>
+      <h3>Hardware Specifications</h3>
       <ul>
         <li><b>CPU:</b> AMD Ryzen 5 5600G (6 Cores / 12 Threads)</li>
-        <li><b>GPU:</b> PowerColor Radeon RX 6600 XT / 9060 XT 16GB</li>
+        <li><b>GPU:</b> PowerColor Radeon RX 9060 XT 16GB</li>
         <li><b>RAM:</b> 16GB DDR4 3200MHz Dual Channel</li>
         <li><b>Storage:</b> 500GB NVMe SSD</li>
         <li><b>Motherboard:</b> ASRock B550M-HDV</li>
@@ -164,28 +163,28 @@ I'm a Software Engineer who believes that great software is built through contin
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 2. AI Engineering Focus</h3>
+      <h3>AI Engineering Focus</h3>
       <ul>
-        <li>🦙 <b>Local LLM Execution:</b> Quantized model testing (Ollama, vLLM, LM Studio)</li>
-        <li>🤖 <b>Autonomous AI Agents:</b> Multi-agent orchestration & tool-use workflows</li>
-        <li>🔍 <b>RAG Architecture:</b> Dense retrieval, hybrid search & reranking pipelines</li>
-        <li>🗄️ <b>Vector Databases:</b> Embeddings storage, indexing & semantic querying</li>
-        <li>🔌 <b>MCP Protocols:</b> Building standard Model Context Protocol servers/clients</li>
+        <li><b>Local LLM Execution:</b> Quantized model testing & local inference optimization</li>
+        <li><b>Autonomous AI Agents:</b> Multi-agent orchestration & tool-use workflows</li>
+        <li><b>RAG Architecture:</b> Dense retrieval, hybrid search & reranking pipelines</li>
+        <li><b>Vector Databases:</b> Embeddings storage, indexing & semantic querying</li>
+        <li><b>MCP Protocols:</b> Building standard Model Context Protocol servers/clients</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛣️ 3. Current Learning Roadmap</h3>
+      <h3>Current Learning Roadmap</h3>
       <ul>
-        <li>🎯 <b>Phase 1:</b> Local LLM Benchmarking & Context Window Optimization</li>
-        <li>🎯 <b>Phase 2:</b> Advanced RAG (GraphRAG, Multi-Vector Retrieval)</li>
-        <li>🎯 <b>Phase 3:</b> Production-grade MCP Tooling & Agentic Workflows</li>
-        <li>🎯 <b>Phase 4:</b> Enterprise AI Guardrails & Local Evaluation Pipelines</li>
+        <li><b>Phase 1:</b> Local LLM Benchmarking & Context Window Optimization</li>
+        <li><b>Phase 2:</b> Advanced RAG (GraphRAG, Multi-Vector Retrieval)</li>
+        <li><b>Phase 3:</b> Production-grade MCP Tooling & Agentic Workflows</li>
+        <li><b>Phase 4:</b> Enterprise AI Guardrails & Local Evaluation Pipelines</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ 4. Development Environment</h3>
+      <h3>Development Environment</h3>
       <p>
         <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" />
         <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -203,20 +202,6 @@ I'm a Software Engineer who believes that great software is built through contin
     </td>
   </tr>
 </table>
-
-### 🚀 5. AI Capabilities & Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Local_LLM-Ollama%20%7C%20vLLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-LangChain%20%7C%20CrewAI-3B82F6?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Hybrid_Search-10B981?style=for-the-badge&logo=search&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-Qdrant%20%7C%20Chroma-8B5CF6?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-EC4899?style=for-the-badge&logo=connection&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres,mongodb,redis,tensorflow,vscode,react,vue,fastapi" />
-</p>
 
 ---
 
