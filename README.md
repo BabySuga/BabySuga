@@ -5,7 +5,7 @@ Software Engineer • Frontend Engineer • AI Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=🚀+Software+Engineer+from+Indonesia;💻+React+%7C+TypeScript+%7C+FastAPI;🤖+Building+AI-Powered+Applications;☁️+Cloud-Native+Development;📊+Enterprise+Dashboard+Engineering;🧠+Learning+LLMs+%7C+RAG+%7C+AI+Agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Software+Engineer+from+Indonesia;%F0%9F%92%BB+React+%7C+TypeScript+%7C+FastAPI;%F0%9F%A4%96+Building+AI-Powered+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Development;%F0%9F%93%8A+Enterprise+Dashboard+Engineering;%F0%9F%A7%A0+Learning+LLMs+%7C+RAG+%7C+AI+Agents" />
 </p>
 
 <p align="center">
@@ -67,15 +67,44 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 
 # 🔥 More Projects
 
-| 📦 **Frontend Monorepo** | 📱 **Gapensi Media** | 🤟 **Konektra** |
-|---|---|---|
-| Reusable frontend platform with shared UI components and workspace architecture. | Android OCR member registration powered by AWS. | AI communication app for deaf & speech-impaired users. |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-
-| 🌦 **Weather API** | 📊 **Netflix Dashboard** | 🧠 **Mental Health Dashboard** |
-|---|---|---|
-| Google Earth Engine weather analysis API. | Power BI dashboard. | Power BI visualization. |
-| ![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=flat-square) | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>📦 Frontend Monorepo</b><br><br>
+      Reusable frontend platform with shared UI components and workspace architecture.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>📱 Gapensi Media</b><br><br>
+      Android OCR member registration powered by AWS.<br><br>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>🤟 Konektra</b><br><br>
+      AI communication app for deaf & speech-impaired users.<br><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🌦 Weather API</b><br><br>
+      Google Earth Engine weather analysis API.<br><br>
+      <img src="https://img.shields.io/badge/GEE-4285F4?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>📊 Netflix Dashboard</b><br><br>
+      Power BI dashboard.<br><br>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>🧠 Mental Health Dashboard</b><br><br>
+      Power BI visualization.<br><br>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,17 +154,12 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BabySuga&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabySuga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -143,9 +167,7 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabySuga&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabySuga&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -153,9 +175,7 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BabySuga&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=BabySuga&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -163,9 +183,7 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/BabySuga/BabySuga/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/BabySuga/BabySuga/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
