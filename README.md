@@ -147,10 +147,21 @@ I'm a Software Engineer who believes that great software is built through contin
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 
 
