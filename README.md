@@ -32,28 +32,7 @@ Software Engineer • Frontend Engineer • AI Software Engineer
 
 # 👨🏻‍💻 About Me
 
-I'm a **Software Engineer** from Indonesia passionate about building scalable software, enterprise platforms, and AI-powered applications.
-
-Currently focusing on:
-
-- 🚀 Enterprise Frontend Engineering
-- 🤖 AI Software Engineering
-- ☁️ Cloud Native Development
-- 📊 Dashboard Architecture
-- 🧠 LLM Integration
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Agents & MCP
-
-Previously worked at **Telkom Indonesia (Netmonk)** building:
-
-- Enterprise Monitoring Dashboard
-- AI Chatbot Platform
-- Voice Bot Integration
-- Authentication System
-- Multi-Account Platform
-- Redis Caching
-- Docker Deployment
-- Jenkins CI/CD
+I'm a Software Engineer who believes that great software is built through continuous learning, thoughtful engineering, and genuine curiosity. I enjoy transforming complex ideas into scalable, maintainable, and user-focused solutions—from enterprise dashboards and cloud-native systems to AI-powered applications. Every project is an opportunity to grow, refine my craft, and create technology that delivers meaningful impact.
 
 ---
 
@@ -169,18 +148,12 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/BabySuga">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/BabySuga">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/BabySuga">
-    <img src="https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true" />
 </p>
 
 
