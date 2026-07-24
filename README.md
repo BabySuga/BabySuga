@@ -49,11 +49,26 @@ I'm a Software Engineer who believes that great software is built through contin
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
+      <b>💌 Digital Invitation</b><br><br>
+      Interactive web-based digital invitation platform with dynamic guest management.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <b>🌤️ Jakarta Forecast</b><br><br>
+      Weather forecasting and environmental data analysis web application for Jakarta region.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
       <b>📦 Frontend Monorepo</b><br><br>
       Reusable frontend platform with shared UI components and workspace architecture.<br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <b>📱 Gapensi Media</b><br><br>
       Android OCR member registration powered by AWS.<br><br>
@@ -65,13 +80,13 @@ I'm a Software Engineer who believes that great software is built through contin
       AI communication app for deaf & speech-impaired users.<br><br>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <b>🌦 Weather API</b><br><br>
       Google Earth Engine weather analysis API.<br><br>
       <img src="https://img.shields.io/badge/GEE-4285F4?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <b>📊 Netflix Dashboard</b><br><br>
       Power BI dashboard.<br><br>
@@ -81,6 +96,8 @@ I'm a Software Engineer who believes that great software is built through contin
       <b>🧠 Mental Health Dashboard</b><br><br>
       Power BI visualization.<br><br>
       <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+    <td width="33%" valign="top">
     </td>
   </tr>
 </table>
