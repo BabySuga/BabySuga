@@ -5,7 +5,7 @@ Software Engineer • Frontend Engineer • AI Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Software+Engineer+from+Indonesia;%F0%9F%92%BB+React+%7C+TypeScript+%7C+FastAPI;%F0%9F%A4%96+Building+AI-Powered+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Development;%F0%9F%93%8A+Enterprise+Dashboard+Engineering;%F0%9F%A7%A0+Learning+LLMs+%7C+RAG+%7C+AI+Agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Software+Engineer+from+Indonesia;%F0%9F%A4%96+Currently+Exploring+AI+Engineering+%26+RAG+Architectures;%F0%9F%92%BB+React+%7C+TypeScript+%7C+FastAPI;%F0%9F%A7%A0+Building+AI-Powered+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Development;%F0%9F%93%8A+Enterprise+Dashboard+Engineering;%E2%9A%A1+Deep+Diving+into+LLMs+%26+RAG+Systems" />
 </p>
 
 <p align="center">
@@ -154,12 +154,18 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/BabySuga">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=BabySuga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/BabySuga">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySuga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabySuga&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/BabySuga">
+    <img src="https://streak-stats.demolab.com?user=BabySuga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -167,7 +173,9 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabySuga&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/BabySuga">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabySuga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -175,7 +183,9 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BabySuga&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <a href="https://github.com/BabySuga">
+    <img src="https://github-profile-trophy.vercel.app/?username=BabySuga&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -183,7 +193,7 @@ Previously worked at **Telkom Indonesia (Netmonk)** building:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BabySuga/BabySuga/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BabySuga/BabySuga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
