@@ -105,33 +105,54 @@ I'm a Software Engineer who believes that great software is built through contin
   <tr>
     <td width="25%" valign="top">
       <b>⚡ Local LLM Telemetry & Benchmarking</b><br><br>
-      ROCm GPU telemetry, streaming throughput profiling (tokens/sec, TTFT) & model state diagnostics (`ai-terminal-workspace`).
+      ROCm GPU telemetry, streaming throughput profiling (tokens/sec, TTFT) & model state diagnostics (`ai-terminal-workspace`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/ai-terminal-workspace">ai-terminal-workspace</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>🔍 Root Cause Analysis & Post-Mortems</b><br><br>
-      Structured RCA reporting, gateway streaming rejection triage (NDJSON vs SSE) & system diagnostics (`engineering-rca`).
+      Structured RCA reporting, gateway streaming rejection triage (NDJSON vs SSE) & system diagnostics (`engineering-rca`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/engineering-rca">engineering-rca</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>🏢 Enterprise Monitoring</b><br><br>
-      Real-time device monitoring, AI recommendation engine & chatbot navigation (`mona-dashboard`).
+      Real-time device monitoring, AI recommendation engine & chatbot navigation (`mona-dashboard`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/ui-mona-web">ui-mona-web</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>🤖 AI Chatbot Platform</b><br><br>
-      Intent design, entity extraction, NLU engine & visual conversation flow builder (`chatbot-builder-frontend`).
+      Intent design, entity extraction, NLU engine & visual conversation flow builder (`chatbot-builder-frontend`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/chatbot-builder-frontend">chatbot-builder-frontend</a>
+      </sub>
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top">
       <b>📦 Frontend Platform & Monorepo</b><br><br>
-      React, Next.js, Vue, TypeScript, storybook & workspace monorepo architecture (`frontend-monorepo`).
+      React, Next.js, Vue, TypeScript, storybook & workspace monorepo architecture (`frontend-monorepo`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/frontend-monorepo">frontend-monorepo</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>⚡ Backend & REST APIs</b><br><br>
-      FastAPI service implementation, Redis caching, OTP & JWT authentication workflows.
+      FastAPI service implementation, Redis caching, OTP & JWT authentication workflows.<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/chatbot-engine-backend">chatbot-engine-backend</a> • <a href="https://github.com/BabySuga/chatbot-engine-nlu">chatbot-engine-nlu</a> • <a href="https://github.com/BabySuga/ui-mona-web">ui-mona-web</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>🐳 CI/CD & CLI Tooling</b><br><br>
-      Docker containerization, Jenkins pipelines & automated terminal CLI environments (`aiw`).
+      Docker containerization, Jenkins pipelines & automated terminal CLI environments (`aiw`).<br><br>
+      <sub>
+        🔗 <a href="https://github.com/BabySuga/ai-terminal-workspace">ai-terminal-workspace</a>
+      </sub>
     </td>
     <td width="25%" valign="top">
       <b>☁️ Cloud Infrastructure</b><br><br>
