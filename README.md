@@ -194,21 +194,21 @@ I'm a Software Engineer who believes that great software is built through contin
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Development Environment</h3>
+      <h3>AI Development Environment</h3>
       <p>
         <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" />
-        <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Frontend-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/AI_Coding-OpenCode-181717?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Coding-Aider-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Coding-Hermes-FF6B6B?style=flat-square&logo=probot&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Local_AI-Ollama-black?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local_AI-9Router-0052CC?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Local_AI-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" />
       </p>
     </td>
   </tr>
